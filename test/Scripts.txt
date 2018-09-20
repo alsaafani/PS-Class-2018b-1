@@ -1,0 +1,14 @@
+A shell script is a script written for the shell, or command line interpreter,
+of an operating system. It is often considered a simple domain-specific
+programming language. Typical operations performed by shell scripts include file
+manipulation, program execution, and printing text. Usually, shell script refers
+to scripts written for a Unix shell, while COMMAND.COM (DOS) and cmd.exe (OS/2,
+Windows) command line scripts are usually called batch files, but here
+properties of both are discussed. 
+
+Many shell script interpreters double as command line interface, such as the
+various Unix shells, Windows PowerShell or the MS-DOS COMMAND.COM. Others, such
+as AppleScript or the graphical Windows Script Host (WScript.exe), add scripting
+capability to computing environments without requiring a command line interface.
+Other examples of programming languages primarily intended for shell scripting
+include DCL and JCL.

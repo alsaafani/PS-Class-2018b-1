@@ -1,0 +1,15 @@
+The Microsoft Windows Script Host (originally called Windows Scripting Host,
+but renamed for the second release) is distributed and installed by default on
+Windows 98 and later versions of Microsoft Windows. It is also installed if
+Internet Explorer 5 (or a later version) is installed. It provides scripting
+capabilities comparable to batch files, but with a greater range of supported
+features. Beginning with Windows 2000, the Windows Script Host became available
+for use with user login scripts.
+
+It is language-independent in the sense that it can make use of different Active
+Scripting language engines. By default it interprets and runs plain-text JScript
+(.JS and .JSE files) and VBScript (.VBS and .VBE files). Users can install
+different scripting engines to enable them to script in other languages, for
+instance Perl. The language independent filename extension WSF can also be used.
+The advantage of the Windows Script File (.WSF) is that it allows the user to
+use a combination of scripting languages within a single file.

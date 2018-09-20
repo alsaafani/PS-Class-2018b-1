@@ -1,0 +1,8 @@
+You can use the command shell to create and edit batch files (also called
+scripts) to automate routine tasks. For example, you can use scripts to automate
+the management of user accounts or nightly backups. You can also use the Windows 
+Script Host, CScript.exe, to run more sophisticated scripts in the command
+shell. You can perform operations more efficiently by using batch files than you
+can by using the user interface. Batch files accept all commands that are
+available at the command line. For more information about batch files and
+scripting, see Using batch files.

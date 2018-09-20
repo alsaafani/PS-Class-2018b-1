@@ -1,0 +1,10 @@
+The command shell is a separate software program that provides direct
+communication between the user and the operating system. The non-graphical
+command shell user interface provides the environment in which you run
+character-based applications and utilities. The command shell executes programs
+and displays their output on the screen by using individual characters similar
+to the MS-DOS command interpreter Command.com. The Windows XP command shell uses
+the command interpreter Cmd.exe, which loads applications and directs the flow
+of information between applications, to translate user input into a form that
+the operating system understands.
+ 
