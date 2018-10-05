@@ -10,7 +10,7 @@ git config --global user.email "masoudmmf@yahoo.com"
 
 git config --list
 
-Copy a repo into your local machine (Github) :
+#Copy a repo into your local machine (Github) :
 
 git clone <Your repo URL>
 
