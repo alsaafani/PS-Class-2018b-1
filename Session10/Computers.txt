@@ -1,0 +1,10 @@
+PC932		Ed Watanabe's PC
+PC1003		Operations Console
+PC1342		Fred O'Reilly's PC
+PC1402		Cathy Haw's PC
+PC1508		Craig Brown's PC
+SC005		Primary Domain Controller
+SC152		DNS Server
+SC623		Exchange Server
+SC881		SQL Server
+SC1092		Web Server
